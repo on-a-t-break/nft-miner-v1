@@ -9,7 +9,8 @@
 -> Mints quantity of NFTs dependant on NFT Attributes
 -> Easy to understand & highly customizable template contract
 
-[ How to Setup ]
+
+:: Setup ::
 
 -> Compile
 -> Upload
@@ -17,10 +18,14 @@
 -> Set Maintenance to false
 -> Claim away
 
+-> Must hit destruct when changing cfg params structure
+
+
 Developed live on stream, catch more @
 
 -> https://twitch.tv/doyengames
 -> https://twitch.tv/nftgamertv
+
 
 Developed as a part of the Explorations System for TFMW
 
