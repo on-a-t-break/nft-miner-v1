@@ -12,13 +12,21 @@
 
 :: Setup ::
 
+- Read through Contract
+- Make edits to suit your needs
+- Add your `wallet_name` to the private const CONTRACT_ADDR
 - Compile
-- Upload
-- Hit Init
+- Add `wallet_name` @eosio.code to active auth
+- Upload Contract
+- Perform Init 
+- Perform Setparams
 - Set Maintenance to false
 - Claim away
 
+:: Notes ::
+
 - Must hit destruct when changing cfg params structure
+- Demo Params file has been included
 
 
 Developed live on stream, catch more @
