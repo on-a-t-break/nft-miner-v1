@@ -1,0 +1,42 @@
+	{ 
+    "allowed_schemas": [{"collection_name":"backtokencol", "schema_name":"exp3.lands"}], 
+    "mineral_elements": [
+        {"key":"Jade", "value":{
+            "collection_name":"backtokencol",
+            "schema_name":"element.v1", 
+            "template_id":"606370",
+            "atomic":1,
+            "element":"Booltonium"
+        }},
+        {"key":"Loop", "value":{
+            "collection_name":"backtokencol",
+            "schema_name":"element.v1", 
+            "template_id":"606371",
+            "atomic":2,
+            "element":"Bytonium"
+        }},
+        {"key":"LSD", "value":{
+            "collection_name":"backtokencol",
+            "schema_name":"element.v1", 
+            "template_id":"606372",
+            "atomic":3,
+            "element":"Arrtonium"
+        }}
+        
+        ], 
+    "alt_elements": [
+        {"key":"Spectral", "value":{
+            "collection_name":"backtokencol",
+            "schema_name":"element.v1", 
+            "template_id":"606373",
+            "atomic":4,
+            "element":"Stringtonium"
+        }}
+    ], 
+    "rarity_multiplier": [
+        {"key":"Common","value":2},
+        {"key":"Legendary","value":1},
+        {"key":"Omnipotent","value":5}
+    ], 
+    "claim_delay": 60, 
+    "test_accs": ["nftgamecards"] }
